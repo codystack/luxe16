@@ -8,7 +8,7 @@
                     <img src="assets/images/logo-light.svg" width="200" alt="logo">
                 </div>
                 <div class="col-lg-8">
-                    <h5 class="ft-sub text-light mb-0">We Collaborate with Ambitious Brands and People; We’d Love to Build Something Great Together</h5>
+                    <h5 class="ft-sub text-light mb-0">Your story deserves more than a snapshot — we bring it to life, one frame at a time.</h5>
                     <div class="space-80"></div>
                     <div class="row">
                         <div class="col-md-3 col-6 mb-5 mb-md-0">
@@ -34,10 +34,10 @@
                         </div>
                         <div class="col-md-6">
                             <div class="footer-widget">
-                                <h6 class="footer-title">OFFICE:</h6>
-                                <p class="pr-xl-5">2861 Fairview St undefined Tallahassee, New Mexico 86357 United States</p>
+                                <h6 class="footer-title">Contact:</h6>
+                                <!-- <p class="pr-xl-5">2861 Fairview St undefined Tallahassee, New Mexico 86357 United States</p> -->
                                 <div class="space-5"></div>
-                                <h5 class="ft-phone">P: +1 800 326 569</h5>
+                                <h5 class="ft-phone">+44 7887 823770</h5>
                                 <div class="space-5"></div>
                                 <a href="mailto:email@example.com" class="title-link">hello@luxe16studios.co.uk</a>
                             </div>
@@ -45,12 +45,12 @@
                     </div>
                 </div>
             </div>
-            <div class="space-110 d-none d-md-block"></div>
+            <!-- <div class="space-110 d-none d-md-block"></div> -->
             <div class="space-40 d-md-none"></div>
-            <div class="space-40"></div>
+            <div class="space-80"></div>
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="copyright-text mb-0">© <script>document.write(new Date().getFullYear());</script> Luxe16 Studios. All Rights Reserved.<br>Built by <a href="https://webify.com.ng" target="_blank" class="text-white">Webify</a></p>
+                    <p class="copyright-text mb-0">© <script>document.write(new Date().getFullYear());</script> Luxe16 Studios. All Rights Reserved.<br>Built by <a href="https://webify.com.ng" target="_blank" style="color: #C9886B;">Webify</a></p>
                 </div>
             </div>
             <div class="space-30"></div>
