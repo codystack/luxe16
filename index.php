@@ -6,7 +6,6 @@ include "./components/navbar.php";
         <div id="content" class="site-content">
             
             <div id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="mask-showcase" data-source="gallery">
-                <!-- START REVOLUTION SLIDER 5.4.1 fullscreen mode -->
                 <div id="rev_slider_3" class="rev_slider" style="display:none;" data-version="5.4.1">
                     <ul>
                     
@@ -14,7 +13,7 @@ include "./components/navbar.php";
                         <li data-index="rs-70" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             
                             <!-- LAYER 1  right image overlay dark-->
-                            <img src="assets/images/transparent.png.html" data-bgcolor='#00776e' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#48260a' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
@@ -31,9 +30,8 @@ include "./components/navbar.php";
             
                                 data-frames='[{"delay":0,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":800,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
 
-                                data-textAlign="['center','center','center','center']"
-            
-                                ><img src="assets/images/home4_slide2.jpg" alt="">
+                                data-textAlign="['center','center','center','center']">
+                                <img src="assets/images/1.jpeg" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -53,7 +51,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/home4_slide2.jpg" alt="">
+                                ><img src="assets/images/2.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -74,7 +72,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide1.jpg" alt="">
+                                ><img src="assets/images/2.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -95,75 +93,9 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide3.jpg" alt="">
+                                ><img src="assets/images/4.jpeg" alt="">
                             </div>
-                            
-                            <!-- LAYER 5  Thin text title-->
-                            <div class="tp-caption tp-resizeme title" 
-                                id="slide-70-layer-5" 
-                                data-x="['center','center','center','center']" data-hoffset="['0',0','0','0']" 
-                                data-y="['center','center','center','center']" data-voffset="['-23','-150','-220','-220']" 
-                                data-fontsize="['14',14','14','14']"
-                                data-lineheight="['32','32','32','32']"
-                                data-fontweight="['400','400','400','400']"
-                                data-color="#ffffff"
-                                data-whitespace="nowrap"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-
-                                data-textAlign="['left','left','left','left']"
-            
-                                >Welcome Ronmi
-                            </div>
-                            
-                            <!-- LAYER 6  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-70-layer-6" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['110','-30','-90','-110']" 
-                                data-width="['760',660','650','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['90','72','62','42']"
-                                data-lineheight="['110','90','76','56']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":400,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":800,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                style="font-family: 'Libre Caslon Text';">Get Tendy Home Decorations 
-                            </div> 
-                            
-                            <!-- LAYER 7  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-70-layer-7" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['260','110','60','20']" 
-                                data-width="['550',550','90%','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['18','18','18','18']"
-                                data-lineheight="['32','32','32','32']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":600,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                >Our design process begins and ends with the hand. We are literally feels his way through each object.
-                            </div> 
+                        
                             
                             <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
@@ -184,7 +116,7 @@ include "./components/navbar.php";
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                ><a href="portfolio-grid.html" class="octf-btn octf-btn-white btn-medium">Order Decoration</a>
+                                ><a href="booking" class="octf-btn octf-btn-white btn-medium">Book Online</a>
                             </div>  
                    
                         </li>  
@@ -195,7 +127,7 @@ include "./components/navbar.php";
                             <!-- MAIN IMAGE -->
                             
                             <!-- LAYER 1  right image overlay dark-->
-                            <img src="assets/images/transparent.png.html" data-bgcolor='#ad6348' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#b09577' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
@@ -214,7 +146,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/home4_slide3.jpg" alt="">
+                                ><img src="assets/images/4.jpeg" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -234,7 +166,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/home4_slide3.jpg" alt="">
+                                ><img src="assets/images/2.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -255,7 +187,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide2.jpg" alt="">
+                                ><img src="assets/images/1.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -276,75 +208,8 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide1.jpg" alt="">
+                                ><img src="assets/images/2.jpeg" alt="">
                             </div>
-                            
-                            <!-- LAYER 5  Thin text title-->
-                            <div class="tp-caption tp-resizeme title" 
-                                id="slide-71-layer-5" 
-                                data-x="['center','center','center','center']" data-hoffset="['0',0','0','0']" 
-                                data-y="['center','center','center','center']" data-voffset="['-23','-150','-210','-230']" 
-                                data-fontsize="['14',14','14','14']"
-                                data-lineheight="['32','32','32','32']"
-                                data-fontweight="['400','400','400','400']"
-                                data-color="#ffffff"
-                                data-whitespace="nowrap"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-
-                                data-textAlign="['left','left','left','left']"
-            
-                                >Welcome Ronmi
-                            </div>
-                            
-                            <!-- LAYER 6  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-71-layer-6" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['110','-30','-90','-110']" 
-                                data-width="['800',660','650','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['90','72','62','42']"
-                                data-lineheight="['110','90','76','56']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":400,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":800,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                style="font-family: 'Libre Caslon Text';">We Create Simple & Modern Decor 
-                            </div> 
-                            
-                            <!-- LAYER 7  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-71-layer-7" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['260','110','50','40']" 
-                                data-width="['550',550','90%','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['18','18','18','18']"
-                                data-lineheight="['32','32','32','32']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":600,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                >Our design process begins and ends with the hand. We are literally feels his way through each object.
-                            </div> 
                             
                             <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
@@ -363,9 +228,8 @@ include "./components/navbar.php";
                                 data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-            
-                                ><a href="portfolio-grid.html" class="octf-btn octf-btn-white btn-medium">Order Decoration</a>
+                                data-paddingleft="[0,0,0,0]">
+                                <a href="booking" class="octf-btn octf-btn-white btn-medium">Book Online</a>
                             </div>  
                         </li>  
 
@@ -374,7 +238,7 @@ include "./components/navbar.php";
                             <!-- MAIN IMAGE -->
                            
                             <!-- LAYER 1  right image overlay dark-->
-                            <img src="assets/images/transparent.png.html" data-bgcolor='#91722f' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#92744e' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
@@ -393,7 +257,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/home4_slide1.jpg" alt="">
+                                ><img src="assets/images/2.jpeg" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -413,7 +277,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','centercenter']"
             
-                                ><img src="assets/images/home4_slide1.jpg" alt="">
+                                ><img src="assets/images/1.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -434,7 +298,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide3.jpg" alt="">
+                                ><img src="assets/images/4.jpeg" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -455,75 +319,9 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/home4_slide2.jpg" alt="">
+                                ><img src="assets/images/1.jpeg" alt="">
                             </div>
-                            
-                            <!-- LAYER 5  Thin text title-->
-                            <div class="tp-caption tp-resizeme title" 
-                                id="slide-72-layer-5" 
-                                data-x="['center','center','center','center']" data-hoffset="['0',0','0','0']" 
-                                data-y="['center','center','center','center']" data-voffset="['-23','-150','-220','-220']" 
-                                data-fontsize="['14',14','14','14']"
-                                data-lineheight="['32','32','32','32']"
-                                data-fontweight="['400','400','400','400']"
-                                data-color="#ffffff"
-                                data-whitespace="nowrap"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-
-                                data-textAlign="['left','left','left','left']"
-            
-                                >Welcome Ronmi
-                            </div>
-                            
-                            <!-- LAYER 6  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-72-layer-6" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['110','-30','-90','-110']" 
-                                data-width="['1000',800','650','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['90','72','62','42']"
-                                data-lineheight="['110','90','76','56']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":400,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":800,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                style="font-family: 'Libre Caslon Text';">Modern Interior, <br>Design for All Houses 
-                            </div> 
-                            
-                            <!-- LAYER 7  Paragraph-->
-                            <div class="tp-caption tp-resizeme" 
-                                id="slide-72-layer-7" 
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                data-y="['center','center','center','center']" data-voffset="['260','110','60','30']" 
-                                data-width="['550',550','90%','90%']"
-                                data-height="['auto',auto','auto','auto']"
-                                data-fontweight="['400','400','400','400']"
-                                data-fontsize="['18','18','18','18']"
-                                data-lineheight="['32','32','32','32']"
-                                data-color="#ffffff"
-                                data-whitespace="normal"
-                     
-                                data-type="text" 
-                                data-responsive_offset="on" 
-            
-                                data-frames='[{"delay":600,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":1000,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
-                                
-                                data-textAlign="['center','center','center','center']"
-            
-                                >Our design process begins and ends with the hand. We are literally feels his way through each object.
-                            </div> 
+                        
                             
                             <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
@@ -544,7 +342,7 @@ include "./components/navbar.php";
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                ><a href="portfolio-grid.html" class="octf-btn octf-btn-white btn-medium">Order Decoration</a>
+                                ><a href="booking" class="octf-btn octf-btn-white btn-medium">Book Online</a>
                             </div>  
                         </li>  
                                                 
