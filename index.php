@@ -494,62 +494,14 @@ include "./components/navbar.php";
                                 <h2 class="ot-heading__title">The space is yours.</h2>
                             </div>
                             <div class="space-20"></div>
-                            <p class="parap-color">At Luxe16 Studios, we believe lifestyle is an art — and we are the canvas where vision meets expression. Based in the heart of London, Luxe16 is a modern lifestyle studio that blends creativity, elegance, and culture to shape experiences that inspire.</p>
                             <p class="parap-color">Our studio is a curated space where individuality is celebrated. From fashion-forward shoots and bespoke branding sessions to content creation and personal styling, we offer a dynamic platform for creatives, entrepreneurs, and everyday visionaries to bring their stories to life.</p>
-                            <p class="parap-color">Rooted in sophistication and driven by innovation, Luxe16 Studios is more than just a studio — it's a movement. A space where premium aesthetics meet purpose, where heritage fuses with modernity, and where every detail is designed to empower confidence and elevate lifestyle.</p>
-                            <hr class="divider-folio">
-                            <div class="testi-single">
-                                <p class="lead-about">Welcome to Luxe16 Studios — where lifestyle becomes legacy.</p>
+                            
+                            <div class="ot-button">
+                                <a href="booking" class="octf-btn octf-btn-primary octf-btn-large">Book Now</a>
                             </div>
                         </div>
                         <div class="col-lg-6 offset-xl-1">
-                            <img src="assets/images/2.jpeg" alt="">
-                        </div>
-                    </div>
-                    <div class="space-80"></div>
-                    <div class="space-70 d-none d-md-block"></div>
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 mb-5 mb-lg-0">
-                            <img src="assets/images/home4-image2.jpg" alt="">
-                        </div>
-                        <div class="col-lg-5 offset-lg-1">
-                            <div class="ot-heading">
-                                <span class="ot-heading__sub">Why Choose us</span>
-                                <h2 class="ot-heading__title pr-xl-5 mr-xl-5">We Aim to Set the Trends</h2>
-                            </div>
-                            <div class="space-20"></div>
-                            <p class="parap-color">Creators of furniture and lighting where beautiful objects celebrate form and material.</p>
-                            <div class="space-10"></div>
-                            <div class="row">
-                                <div class="col-6">
-                                    <div class="ot-counter">
-                                        <div class="dflex number-wrapper">
-                                            <span class="ot-counter__num-prefix"></span>
-                                            <span class="ot-counter__num" data-to="346" data-time="2000">0</span>
-                                            <span class="ot-counter__num-suffix">+</span>
-                                        </div>
-                                        <div class="title-desc-wrapper">
-                                            <h6 class="ot-counter__title">Succeeded Projects</h6>  
-                                        </div>          
-                                    </div>
-                                </div>
-                                <div class="col-6">
-                                    <div class="ot-counter">
-                                        <div class="dflex number-wrapper">
-                                            <span class="ot-counter__num-prefix"></span>
-                                            <span class="ot-counter__num" data-to="9" data-time="2000">0</span>
-                                            <span class="ot-counter__num-suffix">+</span>
-                                        </div>
-                                        <div class="title-desc-wrapper">
-                                            <h6 class="ot-counter__title">Working Hours</h6>
-                                        </div>          
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="space-30"></div>
-                            <div class="ot-button">
-                                <a href="about-us.html" class="octf-btn octf-btn-primary octf-btn-large">More About Us</a>
-                            </div>
+                            <img src="assets/images/3.jpeg" alt="">
                         </div>
                     </div>
                     <div class="space-80"></div>
@@ -557,7 +509,105 @@ include "./components/navbar.php";
                 </div>
             </section>
 
-            <section class="ot-heading-with-slider ot-service-slider-title">
+            <section>
+                <div class="container">
+                    <div class="space-120"></div>
+                    <div class="row">
+                        <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 text-center">
+                            <div class="ot-heading">
+                                <span class="ot-heading__sub">LUXE16 STUDIOS</span>
+                                <h2 class="ot-heading__title">Our Space</h2>
+                            </div>
+                            <div class="space-30"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="project-filter-wrapper">
+                                <div class="projects-grid pf_3_cols style-3 img-popup img-scale">
+                                    <div class="grid-sizer"></div>
+                                    <div class="project-item f3 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/1.jpeg">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/1.jpeg" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f1 f4 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/2.jpeg">
+                                                <a href="po%CC%89tfolio-detailts-2.html">
+                                                    <img src="assets/images/2.jpeg" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f1 f3 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/3.jpeg">
+                                                <a href="po%CC%89tfolio-detailts-3.html">
+                                                    <img src="assets/images/3.jpeg" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                            <div class="portfolio-info full-width">
+                                                <div class="portfolio-info-inner ">
+                                                    <p class="portfolio-cates"><a href="#">Handmade</a><a href="#">Wood picks</a></p> 
+                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-3.html">Grey Velvet Chair</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f4 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/4.jpeg">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/4.jpeg" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                            <div class="portfolio-info full-width">
+                                                <div class="portfolio-info-inner ">
+                                                    <p class="portfolio-cates"><a href="#">Natural Products</a></p> 
+                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-1.html">Shoes Cabinet</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f2 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/5.jpeg">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/5.jpeg" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                            <div class="portfolio-info full-width">
+                                                <div class="portfolio-info-inner ">
+                                                    <p class="portfolio-cates"><a href="#">Furniture</a></p> 
+                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-1.html">Office Decor</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="space-120"></div>
+                </div>
+            </section>
+
+            <section class="ot-heading-with-slider ot-service-slider-title ronmi-bg-third" id="features">
                 <div class="container">
                     <div class="space-80"></div>
                     <div class="space-70 d-none d-md-block"></div>
@@ -671,155 +721,7 @@ include "./components/navbar.php";
                 </div>
             </section>
 
-            <section class="ronmi-bg-third">
-                <div class="container">
-                    <div class="space-90"></div>
-                    <div class="space-60 d-none d-md-block"></div>
-                    <div class="ot-heading text-center">
-                        <span class="ot-heading__sub">Our portfolio</span>
-                        <h2 class="ot-heading__title">Our Work in Your Interior</h2>
-                    </div>
-                    <div class="space-20"></div>
-                    <div class="project-filter-wrapper">
-                        <ul class="project_filters">
-                            <li><a href="#" data-filter="*" class="selected title-link">All <sup>8</sup></a></li>
-                            <li><a href="#" data-filter=".furniture" class="title-link">Furniture <sup>2</sup></a></li>
-                            <li><a href="#" data-filter=".handmade" class="title-link">Handmade <sup>2</sup></a></li>
-                            <li><a href="#" data-filter=".interior" class="title-link">Interior <sup>4</sup></a></li> 
-                        </ul>
-                        <div class="projects-grid pf_4_cols style-1 img-scale">
-                            <div class="grid-sizer"></div>
-
-                            <div class="project-item furniture w_double">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project1.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project1.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Furniture</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project1.jpg">Gray Sofa</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item handmade w_double">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project2.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project2.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Handmade</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project2.jpg">Table Design</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item interior normal">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project3.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project3.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Interior</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project3.jpg">Purple Chair</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item interior normal">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project4.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project4.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Interior</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project4.jpg">Black Sofa</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item interior normal">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project5.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project5.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Interior</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project5.jpg">Brown Sofa</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item interior normal">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project6.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project6.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Interior</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project6.jpg">Metal Chair</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item furniture w_double">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project7.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project7.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Furniture</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project7.jpg">Black Table</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="project-item handmade w_double">
-                                <div class="projects-box">
-                                    <div class="projects-thumbnail" data-src="assets/images/home4-project8.jpg">
-                                        <a href="portfolio-details-1.html"><img src="assets/images/home4-project8.jpg" class="" alt=""></a>
-                                        <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                    </div>
-                                    <div class="portfolio-info full-width">
-                                        <div class="portfolio-info-inner ">
-                                            <p class="portfolio-cates"><a href="#">Handmade</a></p> 
-                                            <h5><a class="title-link" href="portfolio-details-1.html" data-src="assets/images/home4-project8.jpg">Pink Table</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="space-50"></div>
-                    <div class="text-center"><a href="#" class="octf-btn octf-btn-primary btn-medium">View More</a></div>
-                    <div class="space-90"></div>
-                    <div class="space-70 d-none d-md-block"></div>
-                </div>
-            </section>
-
-            <section class="ronmi-bg-third">
+            <section>
                 <div class="container">
                     <div class="space-90"></div>
                     <div class="space-70 d-none d-md-block"></div>
