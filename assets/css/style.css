@@ -8890,15 +8890,15 @@ hr {
 }
 /* services page */
 .ot-service-item__inner.s_main {
-  transform: translateY(65%);
+  /* transform: translateY(65%); */
 }
 .ot-icon-box.s_main {
   padding: 40px;
-  transition: all 0.3s linear;
+  /* transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
-  -ms-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear; */
 }
 .ot-icon-box.s_main:hover {
   background-color: #0D2B35;

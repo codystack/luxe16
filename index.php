@@ -635,10 +635,6 @@ include "./components/navbar.php";
                                         <div class="ot-service-item__content-wrap">
                                             <div class="ot-service-item__inner pr-4">
                                                 <h5 class="ot-service-title"><a href="#">Design & Planning</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
                                             </div>
                                         </div>  
                                     </div>
