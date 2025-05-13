@@ -607,108 +607,116 @@ include "./components/navbar.php";
                 </div>
             </section>
 
-            <section class="ot-heading-with-slider ot-service-slider-title ronmi-bg-third" id="features">
+            <section class="section-design-about align-items-center d-lg-flex ronmi-bg-third" id="features">
+                <div class="col-lg-6 position-lg-absolute px-0 ">
+                    <div class="mr-lg-115">
+                        <div class="video-popup s-design">
+                            <div class="video-image">
+                                <img src="assets/images/3.jpeg" title="video design" alt="video design">
+                            </div>
+                            <!-- <div class="btn-inner flex-middle">
+                                <a class="btn-play" href="https://vimeo.com/536187789">
+                                    <i class="ot-flaticon-play"></i>
+                                    <span class="circle-1"></span>
+                                    <span class="circle-2"></span>
+                                </a>
+                            </div> -->
+                        </div>
+                        <div class="space-30"></div>
+                        <div class="d-none d-lg-flex justify-content-center justify-content-lg-end">
+                            <div class="s-design-about text-center">
+                                <a href="./"><img src="assets/images/logo.svg" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="container">
                     <div class="space-80"></div>
                     <div class="space-70 d-none d-md-block"></div>
-                    <div class="row flex-middle">
-                        <div class="col-xl-5 col-lg-6">
-                            <div class="ot-wrapper-heading">
-                                <div class="ot-heading">
-                                    <span class="ot-heading__sub">Our Services</span>
-                                    <h2 class="ot-heading__title">We Follow the Trends of World</h2>
-                                    <p class="ot-heading__desc">Work with you to understand your business specifics and your target audience to our marketing fully strategy.</p>
+                    <div class="row">
+                        <div class="col-lg-6 offset-lg-6 mt-5 mt-lg-0">
+                            <div class="ot-heading version-design pr-lg-5 mr-lg-5">
+                                <span class="ot-heading__sub dflex"><span></span>Our Features</span>
+                                <h2 class="ot-heading__title">The Luxe Difference in Every Corner</h2>
+                            </div>
+                            <div class="space-20"></div>
+                            <div class="space-4"></div>
+                            <p>At Luxe16 Studios, we offer a thoughtfully curated space with panoramic city views, elegant beige furnishings—perfectly designed for lifestyle shoots, content creation, and serene relaxation.</p>
+                            <div class="space-5"></div>
+                            <div class="row">
+                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                    <div class="ot-icon-list-wrapper">
+                                        <ul class="unstyle ot-icon-list-items s-design">
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Panaromic view</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i> </span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">o2 view</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Water view</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Skyscraper</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Nice beige sofa</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Black wall panels</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Flowers</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </div>
-                                <div class="custom-nav">
-                                    <button type="button" class="owl-prev"><svg viewBox="0 0 103 16" xmlns="http://www.w3.org/2000/svg"><path d="M102.707 8.70711C103.098 8.31658 103.098 7.68342 102.707 7.29289L96.3431 0.928932C95.9526 0.538408 95.3195 0.538408 94.9289 0.928932C94.5384 1.31946 94.5384 1.95262 94.9289 2.34315L100.586 8L94.9289 13.6569C94.5384 14.0474 94.5384 14.6805 94.9289 15.0711C95.3195 15.4616 95.9526 15.4616 96.3431 15.0711L102.707 8.70711ZM0 9H102V7H0L0 9Z"></path></svg></button>
-                                    <button type="button" class="owl-next"><svg viewBox="0 0 103 16" xmlns="http://www.w3.org/2000/svg"><path d="M102.707 8.70711C103.098 8.31658 103.098 7.68342 102.707 7.29289L96.3431 0.928932C95.9526 0.538408 95.3195 0.538408 94.9289 0.928932C94.5384 1.31946 94.5384 1.95262 94.9289 2.34315L100.586 8L94.9289 13.6569C94.5384 14.0474 94.5384 14.6805 94.9289 15.0711C95.3195 15.4616 95.9526 15.4616 96.3431 15.0711L102.707 8.70711ZM0 9H102V7H0L0 9Z"></path></svg></button>
+                                <div class="col-sm-6">
+                                    <div class="ot-icon-list-wrapper">
+                                        <ul class="unstyle ot-icon-list-items s-design">
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">A lot of warms lights</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i> </span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Focus light</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Photographer light</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Beige rug</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Room for the night at extra cost</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Corridor</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Kitchen</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="offset-xl-1 col-lg-6">
-                            <div class="ot-slider ot-service-slider --outside">
-                                <div class="owl-carousel owl-theme">
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_1.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Design & Planning</a></h5>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_2.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Custom Solutions</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_3.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Furniture & Decor</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_4.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Exterior Design</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_5.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Creating a Concept</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                    <div class="ot-service-item">
-                                        <figure class="ot-service-item__image">
-                                            <img src="assets/images/team_slide_6.jpg" alt="">
-                                        </figure>
-                                        <div class="ot-service-item__content-wrap">
-                                            <div class="ot-service-item__inner pr-4">
-                                                <h5 class="ot-service-title"><a href="#">Author's Control</a></h5>
-                                                <div class="ot-service-des">
-                                                    <p>Creators of furniture and lighting where beautiful objects celebrate.</p>
-                                                    <div class="ot-service-btn"><a href="#">Learn More</a></div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-                                </div>
+                            <div class="space-30"></div>
+                            <div class="space-5"></div>
+                            <div class="ot-title-link s-design">
+                                <h5><a href="booking" class="title-link">Book Now</a></h5>
                             </div>
                         </div>
                     </div>
