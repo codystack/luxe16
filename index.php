@@ -725,60 +725,7 @@ include "./components/navbar.php";
                 </div>
             </section>
 
-            <section>
-                <div class="container">
-                    <div class="space-90"></div>
-                    <div class="space-70 d-none d-md-block"></div>
-                    <div class="testimonial-element ot-slider ot-testimonial-slider ot-testimonial-horizontal">
-                        <div class="owl-carousel owl-theme">
-                            <div class="ot-testimonial__item">
-                                <div class="ot-tquote"><img src="assets/images/quote.png" alt=""></div>
-                                <div class="space-10"></div>
-                                <div class="space-3"></div>
-                                <div class="ot-tcontent">You will never fake the feeling of being in such a place. The live minimalism base on the natural materials and alive unprocessed textures — true, authentic, close to nature.</div>
-                                <div class="ot-tmeta">
-                                    <div class="ot-tmeta-inner">
-                                        <div class="ot-tinfo dcell">
-                                            <h6 class="ot-tname">Andrew Fox</h6>
-                                            <span class="ot-tjob">Client of Company</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ot-testimonial__item">
-                                <div class="ot-tquote"><img src="assets/images/quote.png" alt=""></div>
-                                <div class="space-10"></div>
-                                <div class="space-3"></div>
-                                <div class="ot-tcontent">You will never fake the feeling of being in such a place. The live minimalism base on the natural materials & alive unprocessed.</div>
-                                <div class="ot-tmeta">
-                                    <div class="ot-tmeta-inner">
-                                        <div class="ot-tinfo dcell">
-                                            <h6 class="ot-tname">Anna Paulina</h6>
-                                            <span class="ot-tjob">Client of Company</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ot-testimonial__item">
-                                <div class="ot-tquote"><img src="assets/images/quote.png" alt=""></div>
-                                <div class="space-10"></div>
-                                <div class="space-3"></div>
-                                <div class="ot-tcontent">You will never fake the feeling of being in such a place. The live minimalism base on the natural materials and alive unprocessed textures — true, authentic, close to nature.</div>
-                                <div class="ot-tmeta">
-                                    <div class="ot-tmeta-inner">
-                                        <div class="ot-tinfo dcell">
-                                            <h6 class="ot-tname">Anna Paulina</h6>
-                                            <span class="ot-tjob">Client of Company</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="space-90"></div>
-                    <div class="space-70 d-none d-md-block"></div>
-                </div>
-            </section>
+            <?php include "./components/testimonial.php"; ?>
 
         </div>
 
