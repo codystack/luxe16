@@ -42,7 +42,7 @@ include "./components/navbar_alt.php";
                     </div>
                     <div class="monthly">
                         <div class="row justify-content-center">
-                            <div class="col-xl-4 col-md-6 mb-5 mb-xl-0">
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0">
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border">
                                         <div class="ot-pricing-table__header">
@@ -61,7 +61,7 @@ include "./components/navbar_alt.php";
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-4 col-md-6 mb-5 mb-xl-0">
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0">
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border primary-feature">
                                         <div class="ot-pricing-table__header">
@@ -80,7 +80,7 @@ include "./components/navbar_alt.php";
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-4 col-md-6">
+                            <div class="col-xl-3 col-md-6">
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border">
                                         <div class="ot-pricing-table__header">
@@ -95,6 +95,25 @@ include "./components/navbar_alt.php";
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
                                             <a href="https://luxe16-4hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border primary-feature">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Six-hour Session</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£150</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://luxe16-6hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
