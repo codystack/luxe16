@@ -31,7 +31,7 @@ include "./components/navbar.php";
                                 data-frames='[{"delay":0,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"power4.out"},{"delay":"wait","speed":800,"frame":"999","to":"auto:auto;","ease":"power3.inOut"}]'
 
                                 data-textAlign="['center','center','center','center']">
-                                <img src="assets/images/1.jpeg" alt="">
+                                <img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -51,7 +51,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/2.jpeg" alt="">
+                                ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -72,7 +72,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/2.jpeg" alt="">
+                                ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -93,7 +93,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/4.jpeg" alt="">
+                                ><img src="assets/images/STVN6178.JPEG" alt="">
                             </div>
 
 
@@ -190,7 +190,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/4.jpeg" alt="">
+                                ><img src="assets/images/STVN6178.JPEG" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -210,7 +210,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/1.jpeg" alt="">
+                                ><img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -231,7 +231,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/1.jpeg" alt="">
+                                ><img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -252,7 +252,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/2.jpeg" alt="">
+                                ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
 
 
@@ -345,7 +345,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','center']"
             
-                                ><img src="assets/images/2.jpeg" alt="">
+                                ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
 
                             <!-- LAYER 2  Thin text title-->
@@ -365,7 +365,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['center','center','center','centercenter']"
             
-                                ><img src="assets/images/4.jpeg" alt="">
+                                ><img src="assets/images/STVN6178.JPEG" alt="">
                             </div>
                             
                             <!-- LAYER 3  Thin text title-->
@@ -386,7 +386,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/4.jpeg" alt="">
+                                ><img src="assets/images/STVN6178.JPEG" alt="">
                             </div>
                             
                             <!-- LAYER 4  Thin text title-->
@@ -407,7 +407,7 @@ include "./components/navbar.php";
 
                                 data-textAlign="['left','left','left','left']"
             
-                                ><img src="assets/images/1.jpeg" alt="">
+                                ><img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
 
 
@@ -541,6 +541,17 @@ include "./components/navbar.php";
                                     <div class="grid-sizer"></div>
                                     <div class="project-item f3 normal">
                                         <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6156.JPEG">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/STVN6156.JPEG" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f3 normal">
+                                        <div class="projects-box">
                                             <div class="projects-thumbnail" data-src="assets/images/STVN6074.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
                                                     <img src="assets/images/STVN6074.JPEG" class="" alt="">
@@ -555,6 +566,17 @@ include "./components/navbar.php";
                                             <div class="projects-thumbnail" data-src="assets/images/STVN6128.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-2.html">
                                                     <img src="assets/images/STVN6128.JPEG" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f1 f4 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6163.JPEG">
+                                                <a href="po%CC%89tfolio-detailts-2.html">
+                                                    <img src="assets/images/STVN6163.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
@@ -577,6 +599,17 @@ include "./components/navbar.php";
                                             <div class="projects-thumbnail" data-src="assets/images/STVN6110.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
                                                     <img src="assets/images/STVN6110.JPEG" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f2 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6146.JPEG">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/STVN6146.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
