@@ -501,7 +501,20 @@ include "./components/navbar.php";
                             </div>
                         </div>
                         <div class="col-lg-6 offset-xl-1">
-                            <img src="assets/images/3.jpeg" alt="">
+                            <!-- <img src="assets/images/3.jpeg" alt=""> -->
+                        
+                            <div class="video-popup s-design">
+                                <div class="video-image">
+                                    <img src="assets/images/midnight-lounge.jpg" title="video design" alt="video design">
+                                </div>
+                                <div class="btn-inner flex-middle">
+                                    <a class="btn-play" href="https://vimeo.com/536187789">
+                                        <i class="ot-flaticon-play"></i>
+                                        <span class="circle-1"></span>
+                                        <span class="circle-2"></span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="space-80"></div>
@@ -528,9 +541,9 @@ include "./components/navbar.php";
                                     <div class="grid-sizer"></div>
                                     <div class="project-item f3 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/1.jpeg">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6074.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/1.jpeg" class="" alt="">
+                                                    <img src="assets/images/STVN6074.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
@@ -539,9 +552,9 @@ include "./components/navbar.php";
 
                                     <div class="project-item f1 f4 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/2.jpeg">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6128.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-2.html">
-                                                    <img src="assets/images/2.jpeg" class="" alt="">
+                                                    <img src="assets/images/STVN6128.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
@@ -550,51 +563,33 @@ include "./components/navbar.php";
 
                                     <div class="project-item f1 f3 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/3.jpeg">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6094.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-3.html">
-                                                    <img src="assets/images/3.jpeg" class="" alt="">
+                                                    <img src="assets/images/STVN6094.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                            </div>
-                                            <div class="portfolio-info full-width">
-                                                <div class="portfolio-info-inner ">
-                                                    <p class="portfolio-cates"><a href="#">Handmade</a><a href="#">Wood picks</a></p> 
-                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-3.html">Grey Velvet Chair</a></h5>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="project-item f4 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/4.jpeg">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6110.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/4.jpeg" class="" alt="">
+                                                    <img src="assets/images/STVN6110.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                            </div>
-                                            <div class="portfolio-info full-width">
-                                                <div class="portfolio-info-inner ">
-                                                    <p class="portfolio-cates"><a href="#">Natural Products</a></p> 
-                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-1.html">Shoes Cabinet</a></h5>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="project-item f2 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/5.jpeg">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6146.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/5.jpeg" class="" alt="">
+                                                    <img src="assets/images/STVN6146.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                            </div>
-                                            <div class="portfolio-info full-width">
-                                                <div class="portfolio-info-inner ">
-                                                    <p class="portfolio-cates"><a href="#">Furniture</a></p> 
-                                                    <h5><a class="title-link" href="po%CC%89tfolio-detailts-1.html">Office Decor</a></h5>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -612,7 +607,7 @@ include "./components/navbar.php";
                     <div class="mr-lg-115">
                         <div class="video-popup s-design">
                             <div class="video-image">
-                                <img src="assets/images/3.jpeg" title="video design" alt="video design">
+                                <img src="assets/images/The-midnight-lounge.jpg" title="video design" alt="video design">
                             </div>
                             <!-- <div class="btn-inner flex-middle">
                                 <a class="btn-play" href="https://vimeo.com/536187789">
@@ -622,12 +617,12 @@ include "./components/navbar.php";
                                 </a>
                             </div> -->
                         </div>
-                        <div class="space-30"></div>
+                        <!-- <div class="space-30"></div>
                         <div class="d-none d-lg-flex justify-content-center justify-content-lg-end">
                             <div class="s-design-about text-center">
                                 <a href="./"><img src="assets/images/logo.svg" alt=""></a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="container">
