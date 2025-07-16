@@ -75,7 +75,7 @@ include "./components/navbar_alt.php";
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://calendly.com/hello-luxe16studios/reservation-clone" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/3hrsreservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@ include "./components/navbar_alt.php";
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://luxe16-4hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/4hrs-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -113,7 +113,7 @@ include "./components/navbar_alt.php";
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://luxe16-6hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/5hrs-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -133,11 +133,12 @@ include "./components/navbar_alt.php";
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://luxe16-2hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/6hrs-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col-xl-3 col-md-6 mt-4">
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border">
