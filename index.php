@@ -480,6 +480,7 @@ include "./components/navbar.php";
                 </div>
             </div>
 
+            <div class="space-20 d-block d-md-none"></div>
             <section class="project d-block d-md-none mt-4">
                 <div class="container">
                     <div class="row align-items-center">
