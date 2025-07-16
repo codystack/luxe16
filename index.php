@@ -11,7 +11,7 @@ include "./components/navbar.php";
                     
                         <li data-index="rs-70" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             
-                            <img src="" data-bgcolor='#48260a' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#a18d75' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <div class="tp-caption tp-resizeme" 
                                 id="slide-70-layer-1" 
@@ -168,7 +168,7 @@ include "./components/navbar.php";
                             <!-- MAIN IMAGE -->
                             
                             <!-- LAYER 1  right image overlay dark-->
-                            <img src="" data-bgcolor='#b09577' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#a89e8d' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
@@ -323,7 +323,7 @@ include "./components/navbar.php";
                             <!-- MAIN IMAGE -->
                            
                             <!-- LAYER 1  right image overlay dark-->
-                            <img src="" data-bgcolor='#92744e' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="" data-bgcolor='#a89b7e' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
                             <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
@@ -603,9 +603,9 @@ include "./components/navbar.php";
 
                                     <div class="project-item f3 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/STVN6074.JPEG">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6110.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/STVN6074.JPEG" class="" alt="">
+                                                    <img src="assets/images/STVN6110.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
@@ -636,9 +636,20 @@ include "./components/navbar.php";
 
                                     <div class="project-item f1 f3 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/STVN6094.JPEG">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6172.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-3.html">
-                                                    <img src="assets/images/STVN6094.JPEG" class="" alt="">
+                                                    <img src="assets/images/STVN6172.JPEG" class="" alt="">
+                                                </a>
+                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="project-item f2 normal">
+                                        <div class="projects-box">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6146.JPEG">
+                                                <a href="po%CC%89tfolio-detailts-1.html">
+                                                    <img src="assets/images/STVN6146.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
@@ -647,37 +658,14 @@ include "./components/navbar.php";
 
                                     <div class="project-item f4 normal">
                                         <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/STVN6110.JPEG">
+                                            <div class="projects-thumbnail" data-src="assets/images/STVN6074.JPEG">
                                                 <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/STVN6110.JPEG" class="" alt="">
+                                                    <img src="assets/images/STVN6074.JPEG" class="" alt="">
                                                 </a>
                                                 <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="project-item f2 normal">
-                                        <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/STVN6146.JPEG">
-                                                <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/STVN6146.JPEG" class="" alt="">
-                                                </a>
-                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="project-item f2 normal">
-                                        <div class="projects-box">
-                                            <div class="projects-thumbnail" data-src="assets/images/STVN6146.JPEG">
-                                                <a href="po%CC%89tfolio-detailts-1.html">
-                                                    <img src="assets/images/STVN6146.JPEG" class="" alt="">
-                                                </a>
-                                                <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
-                                            </div>
-                                        </div>
-                                    </div>
-
                                 </div>
                             </div>
                         </div>
