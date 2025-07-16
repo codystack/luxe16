@@ -5,17 +5,14 @@ include "./components/navbar.php";
 
         <div id="content" class="site-content">
             
-            <div id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="mask-showcase" data-source="gallery">
+            <div id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container d-none d-md-block" data-alias="mask-showcase" data-source="gallery">
                 <div id="rev_slider_3" class="rev_slider" style="display:none;" data-version="5.4.1">
                     <ul>
                     
-                        <!-- SLIDE 1 -->
                         <li data-index="rs-70" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             
-                            <!-- LAYER 1  right image overlay dark-->
                             <img src="" data-bgcolor='#48260a' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
-                            <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme" 
                                 id="slide-70-layer-1" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -483,6 +480,60 @@ include "./components/navbar.php";
                 </div>
             </div>
 
+            <section class="project d-block d-md-none mt-4">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 mb-lg-0">
+                            <div class="ot-heading">
+                                <h2 class="ot-heading__title">Your Story, Our Studio</h2>
+                                <p>From fashion editorials to branding shoots, Luxe16 Studios empowers creators to express freely. Every detail is intentional.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="arrow-home9">
+                        <div class="ot-slider ot-project-slider style-4 --outside" data-column="2.5" data-tablet="2" data-dots="false" data-nav="true" data-auto="true" data-loop="true" data-gap="30" data-gapmb="30">
+                            <div class="owl-carousel owl-theme">
+                                <article class="project-item normal">
+                                    <div class="projects-box">
+                                        <div class="projects-thumbnail">
+                                            <img src="assets/images/STVN6156.JPEG" alt="">
+                                            <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="project-item normal">
+                                    <div class="projects-box">
+                                        <div class="projects-thumbnail">
+                                            <img src="assets/images/STVN6163.jpg" alt="">
+                                            <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="project-item normal">
+                                    <div class="projects-box">
+                                        <div class="projects-thumbnail">
+                                            <img src="assets/images/The-Cloud-Wall.jpg" alt="">
+                                            <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="project-item normal">
+                                    <div class="projects-box">
+                                        <div class="projects-thumbnail">
+                                            <img src="assets/images/STVN6172.jpg" alt="">
+                                            <span class="overlay"><i class="ot-flaticon-loupe"></i></span>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="space-110"></div>
+                    <div class="space-100 d-none d-md-block"></div>
+                    <div class="space-5 d-none d-md-block"></div>
+                </div>
+            </section>
+
             <section class="ronmi-bg-third">
                 <div class="container">
                     <div class="space-80"></div>
@@ -508,7 +559,7 @@ include "./components/navbar.php";
                                     <img src="assets/images/midnight-lounge.jpg" title="video design" alt="video design">
                                 </div>
                                 <div class="btn-inner flex-middle">
-                                    <a class="btn-play" href="https://vimeo.com/536187789">
+                                    <a class="btn-play" href="https://www.youtube.com/watch?v=CoyVAN5u5zc">
                                         <i class="ot-flaticon-play"></i>
                                         <span class="circle-1"></span>
                                         <span class="circle-2"></span>
