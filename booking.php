@@ -56,7 +56,7 @@ include "./components/navbar_alt.php";
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://luxe16-1hr-morning.youcanbook.me" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/luxe16" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -65,17 +65,17 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border primary-feature">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Two-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Three hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
                                         <div class="ot-pricing-table__price ronmi-text-second">
-                                            <span class="ot-pricing-table__price-value">£60</span>
+                                            <span class="ot-pricing-table__price-value">£90</span>
                                         </div>
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
-                                            <a href="https://luxe16-2hr-morning.youcanbook.me/" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                            <a href="https://calendly.com/hello-luxe16studios/reservation-clone" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -84,7 +84,7 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Four-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Four hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
@@ -103,12 +103,12 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border primary-feature">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Six-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Five hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
                                         <div class="ot-pricing-table__price ronmi-text-second">
-                                            <span class="ot-pricing-table__price-value">£150</span>
+                                            <span class="ot-pricing-table__price-value">£125</span>
                                         </div>
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
@@ -123,12 +123,12 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border primary-feature">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Two-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Six hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
                                         <div class="ot-pricing-table__price ronmi-text-second">
-                                            <span class="ot-pricing-table__price-value">£60</span>
+                                            <span class="ot-pricing-table__price-value">£150</span>
                                         </div>
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
@@ -142,12 +142,12 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Four-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Seven hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
                                         <div class="ot-pricing-table__price ronmi-text-second">
-                                            <span class="ot-pricing-table__price-value">£100</span>
+                                            <span class="ot-pricing-table__price-value">£175</span>
                                         </div>
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
@@ -161,12 +161,12 @@ include "./components/navbar_alt.php";
                                 <div class="ot-view-stacked">
                                     <div class="ot-pricing-table pricing-border primary-feature">
                                         <div class="ot-pricing-table__header">
-                                            <h4 class="ot-pricing-table__title">Six-hour Session</h4>
+                                            <h4 class="ot-pricing-table__title">Eight hours</h4>
                                             <div class="space-10"></div>
                                             <div class="space-8"></div>
                                         </div>
                                         <div class="ot-pricing-table__price ronmi-text-second">
-                                            <span class="ot-pricing-table__price-value">£150</span>
+                                            <span class="ot-pricing-table__price-value">£200</span>
                                         </div>
                                         <div class="space-10"></div>
                                         <div class="space-40"></div>
