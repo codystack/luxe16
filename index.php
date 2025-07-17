@@ -5,7 +5,7 @@ include "./components/navbar.php";
 
         <div id="content" class="site-content">
             
-            <div style="" id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container d-none d-md-block" data-alias="mask-showcase" data-source="gallery">
+            <div style="display: <?php if (!$subscription_plan){echo 'none';}else {echo 'unset';} ?>" id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container d-none d-md-block" data-alias="mask-showcase" data-source="gallery">
                 <div id="rev_slider_3" class="rev_slider" style="display:none;" data-version="5.4.1">
                     <ul>
                     
@@ -51,7 +51,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
                             
-                            <!-- LAYER 3  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-ar" 
                                 id="slide-70-layer-3" 
                                 data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']" 
@@ -72,7 +71,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
                             
-                            <!-- LAYER 4  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-ar" 
                                 id="slide-70-layer-4" 
                                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
@@ -138,7 +136,6 @@ include "./components/navbar.php";
                             </div>
                         
                             
-                            <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
                                 id="slide-70-layer-8" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"  
@@ -163,14 +160,10 @@ include "./components/navbar.php";
                         </li>  
                                      
 
-                        <!-- SLIDE 1 -->
                         <li data-index="rs-71" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            
-                            <!-- LAYER 1  right image overlay dark-->
+
                             <img src="" data-bgcolor='#a89e8d' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
-                            
-                            <!-- LAYER 2  Thin text title-->
+
                             <div class="tp-caption tp-resizeme" 
                                 id="slide-71-layer-1" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -210,7 +203,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
                             
-                            <!-- LAYER 3  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-ar" 
                                 id="slide-71-layer-3" 
                                 data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']" 
@@ -231,7 +223,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/STVN6156.JPEG" alt="">
                             </div>
                             
-                            <!-- LAYER 4  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-ar" 
                                 id="slide-71-layer-4" 
                                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
@@ -296,7 +287,6 @@ include "./components/navbar.php";
                                 data-textAlign="['center','center','center','center']">We don’t just capture aesthetics — we create moments. Luxe16 Studios blends elegance with modern design.
                             </div>
                             
-                            <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
                                 id="slide-71-layer-8" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"  
@@ -318,14 +308,10 @@ include "./components/navbar.php";
                             </div>  
                         </li>  
 
-                        <!-- SLIDE 1 -->
                         <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                           
-                            <!-- LAYER 1  right image overlay dark-->
+
                             <img src="" data-bgcolor='#a89b7e' style='' alt=""  data-bgposition="50% 50%" data-bgfit="auto" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
-                            
-                            <!-- LAYER 2  Thin text title-->
+
                             <div class="tp-caption tp-resizeme" 
                                 id="slide-72-layer-1" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -345,7 +331,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/The-Cloud-Wall.jpg" alt="">
                             </div>
 
-                            <!-- LAYER 2  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-res" 
                                 id="slide-72-layer-2" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -386,7 +371,6 @@ include "./components/navbar.php";
                                 ><img src="assets/images/STVN6178.JPEG" alt="">
                             </div>
                             
-                            <!-- LAYER 4  Thin text title-->
                             <div class="tp-caption tp-resizeme tp-img-ar" 
                                 id="slide-72-layer-4" 
                                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
@@ -451,7 +435,6 @@ include "./components/navbar.php";
                                 data-textAlign="['center','center','center','center']">From fashion editorials to branding shoots, Luxe16 Studios empowers creators to express freely. Every detail is intentional.
                             </div>
                             
-                            <!-- LAYER 8  Read More-->
                             <div class="tp-caption" 
                                 id="slide-72-layer-8" 
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"  
@@ -553,8 +536,6 @@ include "./components/navbar.php";
                             </div>
                         </div>
                         <div class="col-lg-6 offset-xl-1">
-                            <!-- <img src="assets/images/3.jpeg" alt=""> -->
-                        
                             <div class="video-popup s-design">
                                 <div class="video-image">
                                     <img src="assets/images/midnight-lounge.jpg" title="video design" alt="video design">
