@@ -1,11 +1,27 @@
 <?php
+function isMobile() {
+    return preg_match("/Mobile|Android|BlackBerry|IEMobile|Silk/", $_SERVER['HTTP_USER_AGENT']);
+}
 include "./components/header.php";
 include "./components/navbar.php";
 ?>
 
         <div id="content" class="site-content">
+            <style>
+                .mobile-hidden {
+                    display: block;
+                }
+                @media (max-width: 768px) {
+                    .mobile-hidden {
+                        display: none;
+                    }
+                }
+            </style>
+            <?php
+                $sectionClass = isMobile() ? 'mobile-hidden' : '';
+            ?>
             
-            <div style="display: <?php if (!$subscription_plan){echo 'none';}else {echo 'unset';} ?>" id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container d-none d-md-block" data-alias="mask-showcase" data-source="gallery">
+            <div id="rev_slider_one_wrapper" class="rev_slider_wrapper fullscreen-container d-none d-md-block <?php echo $sectionClass; ?>" data-alias="mask-showcase" data-source="gallery">
                 <div id="rev_slider_3" class="rev_slider" style="display:none;" data-version="5.4.1">
                     <ul>
                     
