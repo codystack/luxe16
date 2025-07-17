@@ -560,7 +560,7 @@ include "./components/navbar.php";
                                     <img src="assets/images/midnight-lounge.jpg" title="video design" alt="video design">
                                 </div>
                                 <div class="btn-inner flex-middle">
-                                    <a class="btn-play" href="https://www.youtube.com/watch?v=CoyVAN5u5zc">
+                                    <a class="btn-play" href="./assets/video/video.mp4">
                                         <i class="ot-flaticon-play"></i>
                                         <span class="circle-1"></span>
                                         <span class="circle-2"></span>
