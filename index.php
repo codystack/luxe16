@@ -781,7 +781,7 @@ include "./components/navbar.php";
                             <div class="space-30"></div>
                             <div class="space-5"></div>
                             <div class="ot-title-link s-design">
-                                <h5><a href="booking" class="title-link">Book Now</a></h5>
+                                <h5><a href="features" class="title-link">See more features</a></h5>
                             </div>
                         </div>
                     </div>
