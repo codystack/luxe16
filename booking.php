@@ -205,4 +205,20 @@ include "./components/navbar_alt.php";
 
         </div> 
 
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                    </div>
+                    <div class="modal-body mt-3">
+                        <p class="text-center"><strong>Please note:</strong> Luxe16 Studios features white sofas and carpeted flooring, which are delicate and prone to staining. We do not charge a standard cleaning fee, but to maintain our space, we collect a £50 holding fee upon arrival at the property. This fee is fully refundable after your session, provided the studio is returned in a clean condition with no stains, spillage, or damage to furniture or carpet.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 <?php include "./components/footer.php"; ?>

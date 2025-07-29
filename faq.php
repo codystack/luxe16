@@ -96,7 +96,7 @@ include "./components/navbar_alt.php";
                                         <span class="up"><svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24"><path d="m12 9.414-6.293 6.293c-.39.39-1.024.39-1.414 0s-.39-1.024 0-1.414l7-7c.39-.391 1.024-.391 1.414 0l7 7c.39.39.39 1.024 0 1.414s-1.024.39-1.414 0z"></path></svg></span>
                                     </h5>
                                     <div class="ot-acc-item__content">
-                                        <p>Limited parking is available on-site or nearby. Full details will be provided after your booking is confirmed.</p>
+                                        <p>Yes. Luxe16 is not liable for any parking penalties or traffic violations, however, we have a parking space for just 1 car, if it’s available at the time of shooting, we are happy to offer you for free, alternatively, there’s a parking just in front of the cable car. At crown plaza hotel. 6£ for 4hrs</p>
                                     </div>
                                 </div>
                                 <div class="ot-acc-item">
@@ -138,7 +138,7 @@ include "./components/navbar_alt.php";
                                         <span class="up"><svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24"><path d="m12 9.414-6.293 6.293c-.39.39-1.024.39-1.414 0s-.39-1.024 0-1.414l7-7c.39-.391 1.024-.391 1.414 0l7 7c.39.39.39 1.024 0 1.414s-1.024.39-1.414 0z"></path></svg></span>
                                     </h5>
                                     <div class="ot-acc-item__content">
-                                        <p>No. Luxe16 Studios accommodates clients aged 15 and above.</p>
+                                        <p>Yes we do, but we must be informed at the time of booking.</p>
                                     </div>
                                 </div>
                                 <div class="ot-acc-item">
@@ -147,7 +147,7 @@ include "./components/navbar_alt.php";
                                         <span class="up"><svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24"><path d="m12 9.414-6.293 6.293c-.39.39-1.024.39-1.414 0s-.39-1.024 0-1.414l7-7c.39-.391 1.024-.391 1.414 0l7 7c.39.39.39 1.024 0 1.414s-1.024.39-1.414 0z"></path></svg></span>
                                     </h5>
                                     <div class="ot-acc-item__content">
-                                        <p>Yes, we offer an overnight stay option for £70/night. Please request in advance.</p>
+                                        <p>At this time, we do not allow shooting in the studio except paid for separately.</p>
                                     </div>
                                 </div>
                             </div>

@@ -706,7 +706,7 @@ include "./components/navbar.php";
                             </div>
                             <div class="space-20"></div>
                             <div class="space-4"></div>
-                            <p>At Luxe16 Studios, we offer a thoughtfully curated space with panoramic city views, elegant beige furnishings—perfectly designed for lifestyle shoots, content creation, and serene relaxation.</p>
+                            <p>At Luxe16 Studios, we offer a thoughtfully curated space with panoramic city views, warm neutral tones, and modern accents - perfect for lifestyle shoots, content creation, intimate events, and relaxing overnight stays.</p>
                             <div class="space-5"></div>
                             <div class="row">
                                 <div class="col-sm-6 mb-3 mb-sm-0">
@@ -778,6 +778,7 @@ include "./components/navbar.php";
                                     </div>
                                 </div>
                             </div>
+                            <p>Whether you're filming a reel, hosting a podcast, doing a fashion shoot, or preparing flat-lay content, Luxe16 Studios offers versatility with a luxury touch.</p>
                             <div class="space-30"></div>
                             <div class="space-5"></div>
                             <div class="ot-title-link s-design">

@@ -58,7 +58,7 @@ include "./components/navbar_alt.php";
                                 </div>
                                 <div class="space-20"></div>
                                 <div class="space-4"></div>
-                                <p>E16, 2min to Royal Victoria DLR Station.</p>
+                                <p>E16 1BW, 22 Western gateway, <br>2min to Royal Victoria DLR Station.</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6 mb-5 mb-sm-0">

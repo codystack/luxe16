@@ -11,8 +11,8 @@
                                 <div class="ot-tcontent">We booked Luxe16 for our product shoot and the experience was flawless. The space felt high-end yet welcoming, and the team was super responsive. We’ve already booked our next campaign shoot!</div>
                                 <div class="ot-tmeta">
                                     <div class="ot-tmeta-inner">
-                                        <div class="ot-tinfo dcell">
-                                            <h6 class="ot-tname">Timileyhin</h6>
+                                        <div class="ot-tinfo dcell text-center">
+                                            <h6 class="ot-tname">Timi</h6>
                                             <span class="ot-tjob">Founder, Visages</span>
                                         </div>
                                     </div>

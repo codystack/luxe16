@@ -37,7 +37,7 @@
                                 <h6 class="footer-title">Contact:</h6>
                                 <!-- <p class="pr-xl-5">2861 Fairview St undefined Tallahassee, New Mexico 86357 United States</p> -->
                                 <div class="space-5"></div>
-                                <h5 class="ft-phone">+44 7887 823770</h5>
+                                <h5 class="ft-phone mb-0">+44 7887 823770</h5>
                                 <div class="space-5"></div>
                                 <a href="mailto:email@example.com" class="title-link">hello@luxe16studios.co.uk</a>
                             </div>
@@ -77,6 +77,14 @@
     <script  src="assets/plugins/revolution/revolution/js/extensions/revolution-plugin.js"></script>
 
     <script  src="assets/js/rev-script-2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
+        myModal.show();
+        });
+    </script>
+
     <script>
         window.jQuery = window.$ = jQuery;  
         (function($) { "use strict";
