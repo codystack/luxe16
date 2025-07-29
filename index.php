@@ -778,7 +778,6 @@ include "./components/navbar.php";
                                     </div>
                                 </div>
                             </div>
-                            <p>Whether you're filming a reel, hosting a podcast, doing a fashion shoot, or preparing flat-lay content, Luxe16 Studios offers versatility with a luxury touch.</p>
                             <div class="space-30"></div>
                             <div class="space-5"></div>
                             <div class="ot-title-link s-design">
