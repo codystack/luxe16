@@ -83,6 +83,12 @@ include "./components/navbar_alt.php";
                                         </span>
                                         <span class="ot-icon-list-text">Brown bamboo demarcators/backdrops</span>
                                     </li>
+                                    <li class="ot-icon-list-item">
+                                        <span class="ot-icon-list-icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341.333 341.333" xml:space="preserve"><g><g><path d="M170.667,0C76.41,0,0,76.41,0,170.667s76.41,170.667,170.667,170.667s170.667-76.41,170.667-170.667S264.923,0,170.667,0zM170.667,298.667c-70.692,0-128-57.308-128-128s57.308-128,128-128s128,57.308,128,128S241.359,298.667,170.667,298.667z"></path></g></g></svg>
+                                        </span>
+                                        <span class="ot-icon-list-text">2 different canvas back drops</span>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -178,6 +184,18 @@ include "./components/navbar_alt.php";
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341.333 341.333" xml:space="preserve"><g><g><path d="M170.667,0C76.41,0,0,76.41,0,170.667s76.41,170.667,170.667,170.667s170.667-76.41,170.667-170.667S264.923,0,170.667,0zM170.667,298.667c-70.692,0-128-57.308-128-128s57.308-128,128-128s128,57.308,128,128S241.359,298.667,170.667,298.667z"></path></g></g></svg>
                                         </span>
                                         <span class="ot-icon-list-text">Standing fan - to add movement or keep cool during shoots</span>
+                                    </li>
+                                    <li class="ot-icon-list-item">
+                                        <span class="ot-icon-list-icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341.333 341.333" xml:space="preserve"><g><g><path d="M170.667,0C76.41,0,0,76.41,0,170.667s76.41,170.667,170.667,170.667s170.667-76.41,170.667-170.667S264.923,0,170.667,0zM170.667,298.667c-70.692,0-128-57.308-128-128s57.308-128,128-128s128,57.308,128,128S241.359,298.667,170.667,298.667z"></path></g></g></svg>
+                                        </span>
+                                        <span class="ot-icon-list-text">Ad pro 300 photography light</span>
+                                    </li>
+                                    <li class="ot-icon-list-item">
+                                        <span class="ot-icon-list-icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341.333 341.333" xml:space="preserve"><g><g><path d="M170.667,0C76.41,0,0,76.41,0,170.667s76.41,170.667,170.667,170.667s170.667-76.41,170.667-170.667S264.923,0,170.667,0zM170.667,298.667c-70.692,0-128-57.308-128-128s57.308-128,128-128s128,57.308,128,128S241.359,298.667,170.667,298.667z"></path></g></g></svg>
+                                        </span>
+                                        <span class="ot-icon-list-text">Gvm 300 video light</span>
                                     </li>
                                 </ul>
                             </div>

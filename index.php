@@ -740,6 +740,14 @@ include "./components/navbar.php";
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
                                                 <a href="#"><span class="ot-icon-list-text title-link">Flowers</span></a>
                                             </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Ad pro 300 photography light</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Gvm 300 video light</span></a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -773,6 +781,10 @@ include "./components/navbar.php";
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
                                                 <a href="#"><span class="ot-icon-list-text title-link">Kitchen</span></a>
+                                            </li>
+                                            <li class="ot-icon-list-item ">
+                                                <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
+                                                <a href="#"><span class="ot-icon-list-text title-link">2 different canvas back drops</span></a>
                                             </li>
                                         </ul>
                                     </div>
