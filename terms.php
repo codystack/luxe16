@@ -73,6 +73,13 @@ include "./components/navbar_alt.php";
                                 - Nudity or adult content<br>
                                 - Stunts, children, or hazardous materials
                             </p>
+                            <h6>WEEKEND AVAILABILITY</h6>
+                            <p>Weekend availability at Luxe16 Studios may vary, especially on Sundays, due to private events or pre-scheduled functions held within the space.</p>
+                            <p>Clients are strongly advised to contact Luxe16 directly to confirm availability before making any weekend bookings. If Luxe16 studio must cancel or adjust a confirmed booking, the Client will be notified within 12 to 48 hours of the scheduled appointment time.</p>
+                            <p>Luxe16 will make every reasonable effort to agree on alternative arrangements that work best for the Client.<br />
+                                If a cancellation or significant change occurs due to Luxe16's circumstances at very short notice, Luxe16 may offer the Client an additional hour complimentary session, subject to availability.</p>
+                            <h6>AMENDMENTS TO TERMS</h6>
+                            <p>Luxe16 Studios reserves the right to update, modify, or amend these Terms & Conditions at any time. Any changes will take effect immediately upon publication and will apply to all future bookings. Clients are encouraged to review the Terms & Conditions regularly.</p>
                             <p class="text-danger text-center">Failure to notify Luxe16 may result in cancellation or additional fees.</p>
                         </div>
                     </div>
