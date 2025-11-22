@@ -730,23 +730,23 @@ include "./components/navbar.php";
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Nice beige sofa</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Ad 600 pro ii</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Black wall panels</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">White back drop</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Flowers</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Nude tone canvas back drop</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Ad pro 300 photography light</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Brown and orange back drop</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Gvm 300 video light</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Christmas back drop</span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -756,7 +756,7 @@ include "./components/navbar.php";
                                         <ul class="unstyle ot-icon-list-items s-design">
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">A lot of warms lights</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Christmas back drop</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i> </span>
@@ -764,7 +764,7 @@ include "./components/navbar.php";
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Photographer light</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Diffuser</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
@@ -776,15 +776,15 @@ include "./components/navbar.php";
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Corridor</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Big soft box</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">Kitchen</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">3 Heavy duty stands</span></a>
                                             </li>
                                             <li class="ot-icon-list-item ">
                                                 <span class="ot-icon-list-icon"><i aria-hidden="true" class="fas fa-circle"></i></span>
-                                                <a href="#"><span class="ot-icon-list-text title-link">2 different canvas back drops</span></a>
+                                                <a href="#"><span class="ot-icon-list-text title-link">Phone holder</span></a>
                                             </li>
                                         </ul>
                                     </div>
