@@ -28,7 +28,7 @@ include "./components/navbar_alt.php";
                             <p>Studio hire time begins at the scheduled time or upon the Client's arrival-whichever is earlier. All setup and pack-down must take place within the booked hours.</p>
                             <div class="space-10"></div>
                             <h6>BOOKINGS & PAYMENTS</h6>
-                            <p>Bookings must be made and paid for in full at least 5 days prior to the session. Overtime will be charged at our standard hourly rate.</p>
+                            <p>Bookings must be made and paid for in full at least 5 days prior to the session. Overtime will be charged at our standard hourly rate</p>
                             <p>We strongly encourage clients to book enough time to comfortably cover their shoot, event, or special day. This helps ensure a smooth experience and prevents delays for incoming bookings.</p>
                             <strong>Extra Hour Policy</strong>
                             <p>Please note that any additional hour requested beyond the original booking time is charged at £45 per hour as standard. Extra hours are subject to studio availability and may delay incoming clients or disrupt scheduled studio operations. If the additional hour fee is not paid, the £50 caution fee deposit will be automatically used to cover the £45 charge, and the remaining will be refunded to the Client’s account.</p>
