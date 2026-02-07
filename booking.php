@@ -28,14 +28,14 @@ include "./components/navbar_alt.php";
                                 <span class="ot-heading__sub">Our Pricing</span>
                                 <h2 class="ot-heading__title">Choose a plan that works for you</h2>
                             </div>
-                            <!-- <div class="space-10"></div>
+                            <div class="space-10"></div>
                             <div class="space-4"></div>
-                            <p>Our morning session runs from 8:00 AM to 8:00 PM,<br>and our evening session follows from 8:00 PM to 11:00 PM.</p>
+                            <!-- <p>Our morning session runs from 8:00 AM to 8:00 PM,<br>and our evening session follows from 8:00 PM to 11:00 PM.</p> -->
                             <div class="space-20"></div>
                             <div class="ot-switcher dtable">
-                                <span class="l-switch dcell active">Morning</span>
-                                <span class="r-switch dcell">Evening</span>
-                            </div> -->
+                                <span class="l-switch dcell active">Weekdays</span>
+                                <span class="r-switch dcell">Weekends</span>
+                            </div>
                             <div class="space-30"></div>
                             <div class="space-8"></div>
                         </div>
@@ -192,6 +192,165 @@ include "./components/navbar_alt.php";
                                         <div class="space-40"></div>
                                         <div class="ot-pricing-table__footer">
                                             <a href="https://calendly.com/hello-luxe16studios/8hrs-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="yearly">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border primary-feature">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">One hour</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£35</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/1hr-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Two hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£70</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/2hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border primary-feature">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Three hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£105</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/3hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Four hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£130</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/4hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border primary-feature">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Five hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£165</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/5hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-md-6 mb-5 mb-xl-0 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Six hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£200</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/6hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-md-6 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border primary-feature">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Seven hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£230</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/7hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mt-4">
+                                <div class="ot-view-stacked">
+                                    <div class="ot-pricing-table pricing-border">
+                                        <div class="ot-pricing-table__header">
+                                            <h4 class="ot-pricing-table__title">Eight hours</h4>
+                                            <div class="space-10"></div>
+                                            <div class="space-8"></div>
+                                        </div>
+                                        <div class="ot-pricing-table__price ronmi-text-second">
+                                            <span class="ot-pricing-table__price-value">£260</span>
+                                        </div>
+                                        <div class="space-10"></div>
+                                        <div class="space-40"></div>
+                                        <div class="ot-pricing-table__footer">
+                                            <a href="https://calendly.com/hello-luxe16studios/8hrs-weekend-reservation" target="_blank" class="octf-btn octf-btn-primary">Book Now</a>
                                         </div>
                                     </div>
                                 </div>
