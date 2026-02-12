@@ -84,6 +84,28 @@
     
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1465751751638797&ev=PageView&noscript=1"/></noscript>
     <!-- End Meta Pixel Code -->
+     
+    <script>
+        function getParameterByName(name) {
+            const url = window.location.href;
+            name = name.replace(/[\[\]]/g, '\\$&');
+            const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+            const results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        var amount = getParameterByName('amount');
+
+        if (amount) {
+            fbq('track', 'Purchase', {
+                value: parseFloat(amount),
+                currency: 'GBP'
+            });
+        }
+    </script>
+
 </head>
 
 <body class="royal_preloader">
